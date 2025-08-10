@@ -15,11 +15,6 @@ A sleek, Apple-style perpetual calendar built with **Jetpack Compose**. This cal
 |::|:------:|
 | !APP DEMO1 | !APP DEMO2 |
 
-
-## 🚀 Getting Started
-
-To use or contribute to this project:
-
 ### Requirements
 
 - Android Studio Hedgehog or newer
