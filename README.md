@@ -11,9 +11,9 @@ A sleek, Apple-style perpetual calendar built with **Jetpack Compose**. This cal
 
 ## 📸 Screenshots
 
-| ! |   !    |
-|::|:------:|
-| !APP DEMO1 | !APP DEMO2 |
+ <img width="390" height="826" alt="app_demo1" src="https://github.com/user-attachments/assets/4e8dd9a9-ff8c-47a6-bd74-1ad69848e2ad" />
+ <img width="390" height="831" alt="app_demo2" src="https://github.com/user-attachments/assets/8891e5af-4e7d-4f38-baf5-95fe164399ce" />
+ 
 
 ### Requirements
 
